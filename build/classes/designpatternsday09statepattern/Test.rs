@@ -1,0 +1,5 @@
+designpatternsday09statepattern.A
+designpatternsday09statepattern.B
+designpatternsday09statepattern.Context
+designpatternsday09statepattern.State
+designpatternsday09statepattern.Test
